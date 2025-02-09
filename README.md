@@ -7,7 +7,7 @@ BudgetBuddy is a simple expense tracker designed for teenagers, focusing on thei
 
 ## Deployment Link
 
-The project is deployed and accessible at: BudgetBuddy
+The project is deployed and accessible at: https://shrivalkumar.github.io/BudgetBuddy/
 
 ## Features
 
